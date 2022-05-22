@@ -1,3 +1,4 @@
 # test
 Only for git test
-continue
+continue...
+1. gitignore :Something you have to save on your locals
